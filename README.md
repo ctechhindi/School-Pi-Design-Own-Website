@@ -2,7 +2,7 @@
 
 🍧 Design Own School and College Website. 🏫
 
-![School Pi Logo](assets\logo.jpg)
+![School Pi Logo](assets/logo.jpg)
 
 ## Documentation
 
