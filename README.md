@@ -1,10 +1,14 @@
-# Design Own Website - School Pi
+# Design Own Website Doc - School Pi
 
 🍧 Design Own School and College Website. 🏫
 
+![School Pi Logo](assets\logo.jpg)
+
+## Documentation
+
+* 🌎 [Site](https://school-pi.netlify.com)
 * :octocat: [GitHub](https://github.com/ctechhindi/School-Pi-Design-Own-Website)
 
-<img src="assets\logo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" alt="School Pi Logo"/>
 
 ## Another Projects 📁
 
@@ -27,7 +31,7 @@ Internet Explorer (10+) is only partially supported.
 
 ## Changelog 📝
 
-Details changes for each release are documented in the [changelog.md]()
+Details changes for each release are documented in the [changelog.md](https://school-pi.netlify.com/changelog/)
 
 ## Reporting Issues ☢️
 
