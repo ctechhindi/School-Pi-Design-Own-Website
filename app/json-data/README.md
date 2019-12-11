@@ -8,6 +8,9 @@ lang: en-US
 
 ## Project Information Module
 
+* `Version:` 0.0.1
+* `Last Update:` Wednesday, 11 December 2019 (IST)
+
 ```json
 {
     "full_name": "Project Full Name",
@@ -34,6 +37,7 @@ lang: en-US
         "latitude": "",
         "longitude": "",
         "map_url": "",
+        "google_address": "",
         "photo": {
             "org": "",
             "x128": "",

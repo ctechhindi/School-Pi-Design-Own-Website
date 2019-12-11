@@ -1,10 +1,18 @@
+<div align="center">
+  <a href="#">
+    <img src="./assets/logo.jpg" alt="School Pi Logo" width="150" height="150">
+  </a>
+</div>
+
+<div align="center">
+
 # Design Own Website Doc - School Pi
 
 🍧 Design Own School and College Website. 🏫
 
-![School Pi Logo](assets/logo.jpg)
+</div>
 
-## Documentation
+## [Documentation](https://school-pi.netlify.com)
 
 * 🌎 [Site](https://school-pi.netlify.com)
 * :octocat: [GitHub](https://github.com/ctechhindi/School-Pi-Design-Own-Website)
